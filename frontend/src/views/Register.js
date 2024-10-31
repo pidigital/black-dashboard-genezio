@@ -19,7 +19,7 @@ import {
   Alert
 } from "reactstrap";
 
-import { User } from "@genezio-sdk/black-dashboard-genezio";
+import { User } from "@genezio-sdk/black-dashboard-genezio-2";
 
 function Register(props) {
   const history = useHistory();

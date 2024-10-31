@@ -18,7 +18,7 @@ import {
   Alert
 } from "reactstrap";
 
-import { User }  from "@genezio-sdk/black-dashboard-genezio";
+import { User }  from "@genezio-sdk/black-dashboard-genezio-2";
 
 function Login(props) {
   const history = useHistory();

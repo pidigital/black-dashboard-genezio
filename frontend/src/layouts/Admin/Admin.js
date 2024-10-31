@@ -36,7 +36,7 @@ import routes from "routes.js";
 
 import logo from "assets/img/react-logo.png";
 import { BackgroundColorContext } from "contexts/BackgroundColorContext";
-import { User } from "@genezio-sdk/black-dashboard-genezio"
+import { User } from "@genezio-sdk/black-dashboard-genezio-2"
 
 var ps;
 
